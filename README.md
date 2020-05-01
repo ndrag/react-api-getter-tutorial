@@ -1,4 +1,5 @@
 # Tramp Selector
+(It's Kiwi for hiking!)
 
 [View this website's Moqups page.](https://app.moqups.com/ILr7RrxIwA/view/page/aa9df7b72)
 
