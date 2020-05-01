@@ -4,8 +4,8 @@
 
 An initial scoping run at an app that filters hikes by weather, difficulty, and technical skill requirements.
 
-![Moqups page mockup 1/2.](readme/img/a.png)
-![Moqups page mockup 2/2.](readme/img/b.png)
+![Moqups page mockup 1/2.](readme/img/a.PNG)
+![Moqups page mockup 2/2.](readme/img/b.PNG)
 
 ## Credits
 
