@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 
-const Search = (props) => { // This is a functional component. Capital letter by very important react convention, and a props object.
+const Search = (props) => { // This is a functional component. Using a capital letter by very important react convention, and a props object.
   const [searchValue, setSearchValue] = useState(""); // useState is a hook. It returns a state value and a function we can use to update it.
 
   const handleSearchInputChanges = (e) => {
